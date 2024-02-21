@@ -25,6 +25,7 @@ import java.util.*;
             
     
         }
+         //driver function
         public static void main(String []args){
             Scanner input =new Scanner (System.in);
             //input string should contain 2<=integers<=9 
