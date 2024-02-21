@@ -61,8 +61,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🤝 Connect with Me
 
-- **Your GitHub Profile**
-- **LinkedIn**
+- **[LeetCode](https://leetcode.com/originalpandacoder/)**
+- **[LinkedIn](www.linkedin.com/in/ranjana-devi-58976327b)**
 
 Let's dive deep into the world of Java and DSA, one day at a time! Happy coding! 💻
 
