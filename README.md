@@ -27,6 +27,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 
 - **Day 11:** 💰 Max Sum of Subarray (Kadane's Algorithm)
 - **Day 12:** 🔗 Bitwise AND (&) Operation in a Given Range
+- **Day 13:** 🔍 Search In Sorted Rotated Array
 
 ...and many more to come!
 
