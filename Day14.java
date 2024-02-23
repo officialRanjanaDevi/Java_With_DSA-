@@ -1,6 +1,6 @@
 import java.util.*;
 class Day14 {
-    public List<List<String>> groupAnagrams(String[] strs) {
+    public static List<List<String>> groupAnagrams(String[] strs) {
      List<List<String>> result =new ArrayList<>();
         String arr[] = new String[strs.length];
         for(int i=0;i<strs.length;i++){
@@ -24,5 +24,14 @@ class Day14 {
            }    
        }
        return result;
+   }
+   public static void main(String []args){
+    String strs[]={"eat","tea" ,"tan" ,  "ate" ,  "nat" ,"bat"};
+    List<List<String>> list=groupAnagrams(strs);
+    System.out.print("[ ");
+    for(int i=0;i<list.size();i++){
+        System.out.print(list.get(i)+"  ");
+    } 
+    System.out.print(" ]");
    }
 }
