@@ -29,6 +29,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 12:** 🔗 Bitwise AND (&) Operation in a Given Range
 - **Day 13:** 🔍 Search In Sorted Rotated Array
 - **Day 14:** 🌎 Group Anagrams
+- **Day 15:** 📚 Valid Parenthesis
 
 ...and many more to come!
 
