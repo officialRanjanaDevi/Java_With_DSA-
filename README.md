@@ -31,6 +31,10 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 14:** 🌎 Group Anagrams
 - **Day 15:** 📚 Valid Parenthesis
 
+### Week 4: Advanced Topics
+
+- **Day 16:** 🔗 Longest Common Prefix
+
 ...and many more to come!
 
 ## 📚 How to Use This Repository
