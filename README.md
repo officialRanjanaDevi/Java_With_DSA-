@@ -34,6 +34,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 ### Week 4: Advanced Topics
 
 - **Day 16:** 🔗 Longest Common Prefix
+- **Day 17:** 📝 String Subsequences
 
 ...and many more to come!
 
