@@ -35,6 +35,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 
 - **Day 16:** 🔗 Longest Common Prefix
 - **Day 17:** 📝 String Subsequences
+- **Day 18:** 🔖 Subsequences with sum K
 
 ...and many more to come!
 

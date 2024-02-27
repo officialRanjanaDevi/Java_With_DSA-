@@ -1,5 +1,5 @@
+//String Subsequences
 import java.util.*;
-
 public class Day17{
     //recursive helper function
     public static List<String> recursion(String s, int i, List<String> str, StringBuilder sb) {
@@ -29,7 +29,7 @@ public class Day17{
     }
 
     public static void main(String[] args) {
-        String s = "abc";
+        String s = "abcd";
         System.out.println(AllPossibleStrings(s));
     }
 }
