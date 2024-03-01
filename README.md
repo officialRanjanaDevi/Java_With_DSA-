@@ -23,7 +23,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 9:** 📈 Buy and Sell Stocks
 - **Day 10:** 🎮 Game with String
 
-### Week 3: Advanced Topics
+### Week 3: Easy and Medium Level questions
 
 - **Day 11:** 💰 Max Sum of Subarray (Kadane's Algorithm)
 - **Day 12:** 🔗 Bitwise AND (&) Operation in a Given Range
@@ -31,13 +31,17 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 14:** 🌎 Group Anagrams
 - **Day 15:** 📚 Valid Parenthesis
 
-### Week 4: Advanced Topics
+### Week 4: Difficulty level-Medium Questions
 
 - **Day 16:** 🔗 Longest Common Prefix
 - **Day 17:** 📝 String Subsequences
 - **Day 18:** 🔖 Subsequences with sum K
 - **Day 19:** 🔀 Merge Sort
 - **Day 20:** 🧵 Convert Array into Linked List
+
+### Week 5: Difficulty level-Medium Questions
+
+- **Day 21:** 🏔️ Peak Element
 
 ...and many more to come!
 
