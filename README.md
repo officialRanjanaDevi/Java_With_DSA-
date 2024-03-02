@@ -42,7 +42,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 ### Week 5: Difficulty level-Medium Questions
 
 - **Day 21:** 🏔️ Peak Element
-
+- **Day 22:** 📫 First element to occur at K times
 ...and many more to come!
 
 ## 📚 How to Use This Repository
