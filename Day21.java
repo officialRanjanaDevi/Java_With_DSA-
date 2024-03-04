@@ -1,5 +1,5 @@
 //------------Peak element--------------
-class Solution
+class Day21
 {
 	public static int peakElement(int[] arr,int n)
     {  
