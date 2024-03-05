@@ -45,6 +45,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 22:** 📫 First element to occur at K times
 - **Day 23:** 📌 Remove nth Node from Last
 - **Day 24:** 📥 Insert at Head and Last postion in Linked list
+- **Day 25:** 📥 Insert at given index and after a given val in Linked list
 ...and many more to come!
 
 ## 📚 How to Use This Repository
