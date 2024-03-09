@@ -52,6 +52,8 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 26:** 💥 Deletion in Linked List(from scratch)
 - **Day 27:** 🎯 Find Mid of Linked List
 - **Day 28:** 📚 Implement Queue using stacks
+- **Day 29:** 🔗 Convert Array into Doubly Linked List
+
 ...and many more to come!
 
 ## 📚 How to Use This Repository
