@@ -55,6 +55,10 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 29:** 🔗 Convert Array into Doubly Linked List
 - **Day 30:** 🔢 Remove duplicate characters from string
 
+### Week 7: Difficulty level-Medium Questions
+
+- **Day 31:** 🔢 Custom Sort String
+
 ...and many more to come!
 
 ## 📚 How to Use This Repository
