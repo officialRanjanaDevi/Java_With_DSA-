@@ -58,6 +58,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 ### Week 7: Difficulty level-Medium Questions
 
 - **Day 31:** 🔢 Custom Sort String
+- **Day 32:** 💥 Print Pattern
 
 ...and many more to come!
 
