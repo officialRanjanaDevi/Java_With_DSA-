@@ -59,6 +59,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 
 - **Day 31:** 🔢 Custom Sort String
 - **Day 32:** 💥 Print Pattern
+- **Day 33:** 📝 First Unique Character in String
 
 ...and many more to come!
 
