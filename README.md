@@ -61,6 +61,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 32:** 💥 Print Pattern
 - **Day 33:** 📝 First Unique Character in String
 - **Day 34:** 🌳 Build Binary Tree
+- **Day 35:** 🚲 Inorder Traversal in Binary Tree
 
 ...and many more to come!
 
