@@ -63,6 +63,10 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 34:** 🌳 Build Binary Tree
 - **Day 35:** 🚲 Inorder Traversal in Binary Tree
 
+### Week 8: Difficulty level-Medium Questions
+
+- **Day 36:** 🚲 Postorder Traversal in Binary Tree
+
 ...and many more to come!
 
 ## 📚 How to Use This Repository
