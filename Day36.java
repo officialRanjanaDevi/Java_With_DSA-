@@ -28,7 +28,6 @@ public class Day36 {
             root.right.left=new Node(3);
             root.right.left.right=new Node(5);
             root.right.right=new Node(2);
-        
             postorder(root);
         } 
 }
