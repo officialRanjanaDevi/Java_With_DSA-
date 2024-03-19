@@ -68,6 +68,8 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 36:** 🚲 Postorder Traversal in Binary Tree
 - **Day 37:** 🚲 Preorder Traversal in Binary Tree
 - **Day 38:** 🌳 Height of Binary tree
+- **Day 39:** 🔢 Count Nodes of Binary tree
+ 
 ...and many more to come!
 
 ## 📚 How to Use This Repository
