@@ -1,15 +1,6 @@
 // Convert Array into Doubly Linked List
-class Node{
-    int data;
-    Node next;
-    Node prev;
-    Node (int data){
-        this.data=data;
-        this.next=null;
-        this.prev=null;
-    }
-}
 public class Day29 {
+    
     public static void print(Node head){
         Node temp=head;
         while(temp!=null){
@@ -29,5 +20,15 @@ public class Day29 {
             prev=newnode;
         }
         print(head);
+    }
+}
+class Node{
+    int data;
+    Node next;
+    Node prev;
+    Node (int data){
+        this.data=data;
+        this.next=null;
+        this.prev=null;
     }
 }

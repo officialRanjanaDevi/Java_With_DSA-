@@ -1,15 +1,4 @@
-class Node{
-    int data;
-    Node next;
-    Node(int data){
-        this.data=data;
-        this.next=null;
-    }
-    Node (int data,Node next){
-        this.data=data;
-        this.next=next;
-    }
-}
+
 public class Day25 {
     public static void print(Node head){
         if(head==null){
@@ -80,8 +69,17 @@ public class Day25 {
         head=insert_at_idx(head,87,3);
         print(head);
         print(insert_at_val(head,55,7));
-        
-    }
-   
+    }  
 }
-
+class Node{
+    int data;
+    Node next;
+    Node(int data){
+        this.data=data;
+        this.next=null;
+    }
+    Node (int data,Node next){
+        this.data=data;
+        this.next=next;
+    }
+}

@@ -1,4 +1,4 @@
-public class TreeHeight {
+public class Day38 {
     static class Node {
       int data;
       Node left;

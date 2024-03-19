@@ -1,11 +1,4 @@
-class Node{
-    int data;
-    Node next;
-    Node(int data){
-        this.data=data;
-        this.next=null;
-    }
-}
+
 public class Day26 {
     public static void print(Node head){
         if(head==null){
@@ -97,5 +90,13 @@ public class Day26 {
         print(delete_k_idx(head, 5));
         print(delete_val(head, 30));
 
+    }
+}
+class Node{
+    int data;
+    Node next;
+    Node(int data){
+        this.data=data;
+        this.next=null;
     }
 }

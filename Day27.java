@@ -1,13 +1,3 @@
-class ListNode {
-    int val;
-    ListNode next;
-    
-    ListNode(int val) {
-        this.val = val;
-        this.next = null;
-    }
-}
-
 class Day27 {
     public ListNode middleNode(ListNode head) {
         ListNode slow = head;
@@ -47,3 +37,13 @@ class Day27 {
         printLinkedList(middle);
     }
 }
+class ListNode {
+    int val;
+    ListNode next;
+    
+    ListNode(int val) {
+        this.val = val;
+        this.next = null;
+    }
+}
+
