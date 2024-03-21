@@ -69,7 +69,11 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 37:** 🚲 Preorder Traversal in Binary Tree
 - **Day 38:** 🌳 Height of Binary tree
 - **Day 39:** 🔢 Count Nodes of Binary tree
- 
+- **Day 40:** 📌 Sum of Nodes of Binary tree 
+
+### Week 9: Difficulty level-Medium Questions
+- **Day 41:** 📌 Reverse a Linked List
+  
 ...and many more to come!
 
 ## 📚 How to Use This Repository
