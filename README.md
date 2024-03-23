@@ -71,7 +71,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 39:** 🔢 Count Nodes of Binary tree
 - **Day 40:** 📌 Sum of Nodes of Binary tree 
 
-### Week 9: Difficulty level-Medium Questions
+### Week 9: LinkedList Questions
 - **Day 41:** 📌 Reverse a Linked List
 - **Day 42:** 🔗 Check Palindrome in a LinkedList  
 - **Day 43:** 🔖 Reorder Linked List
