@@ -74,6 +74,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 ### Week 9: Difficulty level-Medium Questions
 - **Day 41:** 📌 Reverse a Linked List
 - **Day 42:** 🔗 Check Palindrome in a LinkedList  
+- **Day 43:** 🔖 Reorder Linked List
 
 ...and many more to come!
 
