@@ -75,6 +75,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 41:** 📌 Reverse a Linked List
 - **Day 42:** 🔗 Check Palindrome in a LinkedList  
 - **Day 43:** 🔖 Reorder Linked List
+- **Day 44:** 🔍 Find the Duplicate number
 
 ...and many more to come!
 
