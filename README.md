@@ -76,7 +76,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 42:** 🔗 Check Palindrome in a LinkedList  
 - **Day 43:** 🔖 Reorder Linked List
 - **Day 44:** 🔍 Find the Duplicate number
-
+- **Day 45:**    Find all Duplicates in an Array
 ...and many more to come!
 
 ## 📚 How to Use This Repository
