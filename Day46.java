@@ -1,4 +1,4 @@
-class Day44 {
+class Day46 {
     public int firstMissingPositive(int[] nums) {
         boolean arr[]=new boolean[nums.length+1];
         for(int i=0;i<nums.length;i++){
