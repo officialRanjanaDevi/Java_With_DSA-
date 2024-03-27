@@ -80,6 +80,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 
 ### Week 10: LinkedList Questions
 - **Day 46:** 🔢 Find Smallest Positive
+- **Day 47:** 📚 Subarray Product less than K
 
 ...and many more to come!
 
