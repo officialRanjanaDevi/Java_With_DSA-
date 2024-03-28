@@ -78,9 +78,10 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 44:** 🔍 Find the Duplicate number
 - **Day 45:** 🎯 Find all Duplicates in an Array
 
-### Week 10: LinkedList Questions
+### Week 10: Sliding Window  Questions
 - **Day 46:** 🔢 Find Smallest Positive
 - **Day 47:** 📚 Subarray Product less than K
+- **Day 48:** 📝 Length of longest subarray with atmost k frequency
 
 ...and many more to come!
 
