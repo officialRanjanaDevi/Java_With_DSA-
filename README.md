@@ -82,6 +82,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 46:** 🔢 Find Smallest Positive
 - **Day 47:** 📚 Subarray Product less than K
 - **Day 48:** 📝 Length of longest subarray with atmost k frequency
+- **Day 49:** 🔄 Count subarrays where max element appears atlest K times
 
 ...and many more to come!
 
