@@ -84,6 +84,10 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 48:** 📝 Length of longest subarray with atmost k frequency
 - **Day 49:** 🔄 Count subarrays where max element appears atlest K times
 - **Day 50:** 🔽 Minimum element in BST
+
+### Week 11: Binary Search Tree Questions
+- **Day 51:** 🌳 Closest Neighbour in BST
+
 ...and many more to come!
 
 ## 📚 How to Use This Repository
