@@ -88,6 +88,8 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 ### Week 11: Binary Search Tree Questions
 - **Day 51:** 🌳 Closest Neighbour in BST
 - **Day 52:** 📏 Length of the Last word
+- **Day 53:** 📝 Isomorphic strings
+
 ...and many more to come!
 
 ## 📚 How to Use This Repository
