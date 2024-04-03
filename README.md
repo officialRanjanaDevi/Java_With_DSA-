@@ -89,6 +89,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 51:** 🌳 Closest Neighbour in BST
 - **Day 52:** 📏 Length of the Last word
 - **Day 53:** 📝 Isomorphic strings
+- **Day 54:** 🔍 Word Search
 
 ...and many more to come!
 
