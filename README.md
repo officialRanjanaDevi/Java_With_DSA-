@@ -90,6 +90,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 52:** 📏 Length of the Last word
 - **Day 53:** 📝 Isomorphic strings
 - **Day 54:** 🔍 Word Search
+- **Day 55:** 📌 Maximum Nesting Depth of the Parentheses
 
 ...and many more to come!
 
