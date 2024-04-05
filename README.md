@@ -92,6 +92,9 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 54:** 🔍 Word Search
 - **Day 55:** 📌 Maximum Nesting Depth of the Parentheses
 
+### Week 12: Week 12 continues.........
+- **Day 56:** 💥 Make the String Great
+
 ...and many more to come!
 
 ## 📚 How to Use This Repository
