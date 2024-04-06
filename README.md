@@ -94,6 +94,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 
 ### Week 12: Week 12 continues.........
 - **Day 56:** 💥 Make the String Great
+- **Day 57:** 📝 Minimum Remove to Make Valid Parentheses
 
 ...and many more to come!
 
