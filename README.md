@@ -85,18 +85,22 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 49:** 🔄 Count subarrays where max element appears atlest K times
 - **Day 50:** 🔽 Minimum element in BST
 
-### Week 11: Binary Search Tree Questions
+### Week 11: Leetcode Problem Of The Day.........
 - **Day 51:** 🌳 Closest Neighbour in BST
 - **Day 52:** 📏 Length of the Last word
 - **Day 53:** 📝 Isomorphic strings
 - **Day 54:** 🔍 Word Search
 - **Day 55:** 📌 Maximum Nesting Depth of the Parentheses
 
-### Week 12: Week 12 continues.........
+### Week 12: Leetcode Problem Of The Day.........
 - **Day 56:** 💥 Make the String Great
 - **Day 57:** 📝 Minimum Remove to Make Valid Parentheses
 - **Day 58:** 🎒 Valid Parenthesis String
 - **Day 59:** 👩‍🎓 Number of Students Unable to Eat Lunch
+- **Day 60:** 🍿 Time to buy tickets
+
+### Week 13: Leetcode Problem Of The Day.........
+- **Day 61:** 🃏 Reveal Cards In Increasing Order
 ...and many more to come!
 
 ## 📚 How to Use This Repository
