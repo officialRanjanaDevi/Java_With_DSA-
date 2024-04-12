@@ -102,7 +102,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 ### Week 13: Leetcode Problem Of The Day.........
 - **Day 61:** 🃏 Reveal Cards In Increasing Order
 - **Day 62:** 📌 Find Pivot Index
-
+- **Day 63:** 💧 Trapping Rain Water
 ...and many more to come!
 
 ## 📚 How to Use This Repository
