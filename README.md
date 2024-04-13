@@ -104,6 +104,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 62:** 📌 Find Pivot Index
 - **Day 63:** 💧 Trapping Rain Water
 ...and many more to come!
+- **Day 64:** 📝 Product of Array Except Self 
 
 ## 📚 How to Use This Repository
 
