@@ -105,7 +105,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 63:** 💧 Trapping Rain Water
 ...and many more to come!
 - **Day 64:** 📝 Product of Array Except Self 
-
+- **Day 65:** 🌳 Sum of Left Leaves
 ## 📚 How to Use This Repository
 
 Each day, a new folder will be added to this repository containing:
