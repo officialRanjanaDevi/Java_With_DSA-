@@ -109,6 +109,8 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 
 ### Week 14: Leetcode Problem Of The Day.........
 - **Day 66:** 🌳 Sum Root to Leaf Numbers
+- **Day 67:** 🌳 Add One Row to Tree
+
 ## 📚 How to Use This Repository
 
 Each day, a new folder will be added to this repository containing:
