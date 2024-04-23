@@ -118,7 +118,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 71:** 📝 Find Union of two sorted arrays
 - **Day 72:** 💥 Symmetric trees
 - **Day 73:** 🔄 Minimum Depth of Binary Tree
-
+- **Day 74:** 🔢 Create Graph
 
 ## 📚 How to Use This Repository
 
