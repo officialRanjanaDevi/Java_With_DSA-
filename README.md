@@ -119,7 +119,7 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 72:** 💥 Symmetric trees
 - **Day 73:** 🔄 Minimum Depth of Binary Tree
 - **Day 74:** 🔢 Create Graph
-
+- **Day 75:** 📌 nth Tribonacci number
 ## 📚 How to Use This Repository
 
 Each day, a new folder will be added to this repository containing:
