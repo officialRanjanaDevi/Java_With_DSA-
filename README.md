@@ -120,6 +120,14 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 73:** 🔄 Minimum Depth of Binary Tree
 - **Day 74:** 🔢 Create Graph
 - **Day 75:** 📌 nth Tribonacci number
+
+### Week 16: Leetcode Problem Of The Day.........
+- **Day 76:** 🎯  BFS(Breath First Search)
+- **Day 77:** 🎯  DFS(Depth First Search)
+- **Day 78:** 🔄  Has Path?
+- **Day 79:** 🎒  Maximum Prime Difference
+- **Day 80:** 📝  Reverse Vowels of String
+
 ## 📚 How to Use This Repository
 
 Each day, a new folder will be added to this repository containing:
