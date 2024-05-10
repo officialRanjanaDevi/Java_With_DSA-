@@ -128,6 +128,21 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 79:** 🎒  Maximum Prime Difference
 - **Day 80:** 📝  Reverse Vowels of String
 
+
+### Week 17: Leetcode Problem Of The Day.........
+- **Day 81:** 📝 Climbing stairs 
+- **Day 82:** 💥 Reverse prefix of word
+- **Day 83:** 🔄 Largest positive integer that exists with its Negative
+- **Day 84:** 🔢 Compare version number
+- **Day 85:** 📌 Boats to save people
+
+### Week 18: Leetcode Problem Of The Day........
+- **Day 86:** 🎯 Determine if two strings are close
+- **Day 87:** 🎯 Maximum average subarray
+- **Day 88:** 🔄 Double a number represented as a linked list
+- **Day 89:** 🎒 Relative ranks
+- **Day 90:** 📝 Maximize Happiness of Selected Children
+
 ## 📚 How to Use This Repository
 
 Each day, a new folder will be added to this repository containing:
