@@ -143,6 +143,20 @@ Below is the journey we'll take, one day at a time, through the fascinating worl
 - **Day 89:** 🎒 Relative ranks
 - **Day 90:** 📝 Maximize Happiness of Selected Children
 
+### Week 19: Leetcode Problem Of The Day.........
+- **Day 91:** 💥 K th smallest prime fraction
+- **Day 92:** 📝 Minimum cost to hire k workers
+- **Day 93:** 🎒 Largest local values in a matrix
+- **Day 94:** 👩‍🎓 Add two numbers
+- **Day 95:** 🍿 Path with maximum gold
+
+### Week 20: Leetcode Problem Of The Day.9......
+- **Day 96:** 🃏 Wildcard matching
+- **Day 97:** 📌 Evaluate boolean binary tree
+- **Day 98:** 💧 Delete leaves with a given value
+- **Day 99:** 📝  Distribute coins in binary tree
+- **Day 100:** 🌳 Jump game
+
 ## 📚 How to Use This Repository
 
 Each day, a new folder will be added to this repository containing:
